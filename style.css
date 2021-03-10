@@ -3,7 +3,7 @@ body{
         background-color: cornsilk; 
 }
 .btn{
-	/*border: solid 3px black;*/
+	border: solid 3px white;
 	width: 100px;
 	height: 100px;
 	display: inline;
